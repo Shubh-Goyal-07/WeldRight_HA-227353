@@ -49,7 +49,7 @@ This file is a Random Forest Classifier which classifies the data labeled as “
 
 ### advancedanalytics.py
 
-This file stores the code for plotting the graphs of the number of defects corresponding to a welding parameter versus the range of values for that parameter. The graphs plotted are useful in observing the variation in the number of defects with the change in a particular parameter and thus, play an important role in analyzing the impact of that welding parameter in the manufacturing process.
+This file stores the code for plotting the graphs of the number of defects corresponding to a welding parameter versus the range of values for that parameter. The graphs plotted are useful in observing the variation in the number of defects with the change in a particular parameter and thus, play an important role in analyzing the impact of that welding parameter in the manufacturing process. The output of the code here will give a graph and a list of parameter values for which the defects are minimum. It should be noted that for now, we have only performed the advanced analytics for the provided data. However, this can very easily be extended for any input dataset as well with minute changes in the code.
 
 
 ### oporder.py
