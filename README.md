@@ -2,6 +2,7 @@
 A ML model to predict welding defects.
 
 ## TEAM DESCRIPTION
+### TEAM ID: HA-227353
 Team Strength - 3:
 
 Shubh Goyal: Sophomore year (B. Tech Computer Science and Engineering)
